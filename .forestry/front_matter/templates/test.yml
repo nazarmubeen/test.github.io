@@ -1,6 +1,10 @@
 ---
 label: test
 hide_body: false
-fields: []
+fields:
+- name: test
+  type: tag_list
+  default: []
+  label: test
 pages:
 - _posts/test.md
