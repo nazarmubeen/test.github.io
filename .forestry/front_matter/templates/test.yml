@@ -7,4 +7,4 @@ fields:
   default: []
   label: test
 pages:
-- _posts/test.md
+- _posts/2019-08-20-test.md
